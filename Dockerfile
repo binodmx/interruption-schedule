@@ -21,4 +21,6 @@ RUN npm install
 
 EXPOSE 8080
 
+USER 10000
+
 CMD [ "node", "index.js" ]
