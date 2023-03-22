@@ -2,9 +2,9 @@
 
 ### Introduction
 
-This repository contains a REST API implementation to get the interruption schedule of electricity power in your area using CEB Care outage calendar. As CEB has not published any public REST API for this purpose, you need to register in https://cebcare.ceb.lk via either mobile app or web app before using this API. You have to provide your username, password and the account number of your electricity bill as input parameters.
+This repository contains a REST API implementation to get the interruption schedule of electricity power in your area using CEB Care outage calendar. As CEB has not published any public REST API for this purpose, you need to register in https://cebcare.ceb.lk via either a mobile app or a web app before using this API. You have to provide your username, password and the account number of your electricity bill as input parameters.
 
-This API can be used to develop a power cut information notification (SMS, Emails, etc.) sender by retrieving . If you like to report a bug or contribute some code please submit issues/pull requests. If you find this useful give this repo a star!
+This API can be used to develop a power cut information notification (SMS, Emails, etc.) sender or integrate in to another service. If you like to report a bug or contribute some code please submit issues/pull requests. If you find this useful give this repo a star!
 
 !!! Please note that CEB Care system can be down sometimes hence this API will not work.
 
